@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mvDFA"]
+	path = mvDFA
+	url = https://github.com/jpirmer/mvdfa
+	shallow = true
+	registered = true
